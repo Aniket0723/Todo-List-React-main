@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 Deployed on netlify: 
-https://todo-list-anshika.netlify.app
-<img src="todo-view.png">
+
 
 ## Available Scripts
 
